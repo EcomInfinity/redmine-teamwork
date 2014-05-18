@@ -1,0 +1,25 @@
+{
+  "name": "redmine-teamwork",
+  "version": "0.1.0",
+  "description": "redmine-teamwork ================",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js -t 10000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crossgate9/redmine-teamwork"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crossgate9/redmine-teamwork/issues"
+  },
+  "homepage": "https://github.com/crossgate9/redmine-teamwork",
+  "dependencies": {
+    "async": "^0.9.0",
+    "should": "^3.3.1",
+    "sprintf": "^0.1.3",
+    "underscore": "^1.6.0"
+  }
+}
